@@ -1,1 +1,1 @@
-# bulletpay_whitepaper
+# BulletPay Whitepaper
